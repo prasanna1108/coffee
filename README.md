@@ -8,6 +8,7 @@ The goal of this project is to analyze coffee sales data from a vending machine 
 2)Data Cleaning and Data Preprocessing [Link](https://colab.research.google.com/drive/1WoHFj7Ap0hF-bYJressZZYBm8fe3ScmI?usp=sharing)  <br />
 3)Coffee Sales Data Insights (PDF File) [link](https://drive.google.com/file/d/1l-PT4W9n9cPOez-CtmpfZboeM0YZjpfv/view?usp=sharing) <br />
 4)Coffee Sales Data Report [Link](https://drive.google.com/file/d/19tnv1lVsqwZgVpg3K0p23bIVfr54uHrS/view?usp=sharing)
+5)Coffee Sales SQL [Link](https://drive.google.com/file/d/1YzHZkOS_tB3bvb6XnwHgKKanBokfKns4/view?usp=sharing)
 # Dashboard
 ![Screenshot 2024-10-19 111527](https://github.com/user-attachments/assets/49be8a9e-f5b7-463f-81e2-2637a0f41b99)
 
